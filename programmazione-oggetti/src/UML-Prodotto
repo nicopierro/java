@@ -1,0 +1,11 @@
+Prodotto
+
+-prezzo: double
+-iva: char
+
++getPrezzo(): double
++getIva(): char
++calcoloIva(): double 
++getPrezzoFinale(): double
++setPrezzo(double p): void
++setIva(char i): void
