@@ -1,0 +1,8 @@
+Termometro
+
+-tempC:double
+
++getTemperatura():double
++getFahrenheit(double tc):double
++getKelvin(double tc): double
++setTemperatura(double tc): void
